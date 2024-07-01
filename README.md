@@ -1,12 +1,13 @@
 ### Hi there 👋, I am Jeffrey
 
-I am a 3rd year Computer Science (and soon to be Statistics) student at the University of Waterloo.
+I am a 3rd year Computer Science ~~(and soon to be Statistics)~~ student at the University of Waterloo.
 
 #### 🕜 Currently/Near Future
-- Working at RBC T&O this summer working on their cash management team
+- Working at RBC T&O this summer working on their cash management team to build a payment system
+- Building open source tech for social good with UW Blueprint and Develop for Good
 - Working at WatStreet, building their data server to analyze our ML models for trading stocks and crypto
-- Looking for Fall 2024, Summer 2025 and Fall 2025 SWE/Infrastructure/Data Engineering/Data Science internships (Please reach out!)
-- Building out cool projects that solve even the smallest problems I encouter during university
+- Looking for Fall 2024, Summer 2025 and Fall 2025 SWE/Infrastructure internships (Please reach out!)
+- Developing out cool projects that solve even the smallest problems I encouter during university
 
 #### ✏️ Learning
 - Backend design with microservices
