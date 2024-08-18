@@ -4,16 +4,11 @@ I am a 3rd year Computer Science ~~(and soon to be Statistics)~~ student at the 
 
 #### 🕜 Currently/Near Future
 - Interning at AutoDesk this September, building a design review system, similar to GitHub pull request reviews
-- Working at RBC T&O this summer working on their cash management team to build a payment system
 - Building open source tech for social good with UW Blueprint and Develop for Good
 - Working at WatStreet, building their data server to analyze our ML models for trading stocks and crypto
 - Looking for ~~Fall 2024~~, Summer 2025 and Fall 2025 SWE internships (Reach out, I need more money :D)
-- Developing out cool projects that solve even the smallest problems I encouter during university
 
 #### ✏️ Learning
-- Backend design with microservices
-- Go development to build performant systems
-- Machine learning and Deep learning to create more powerful systems
 - Data structures and algos (this is just me saying I need to do more lc)
 
 #### 🏀 Hobbies
