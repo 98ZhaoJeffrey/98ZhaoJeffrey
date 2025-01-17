@@ -1,11 +1,12 @@
 ### Hi there 👋, I am Jeffrey
 
-I am a 3rd year Computer Science ~~(and soon to be Statistics)~~ student at the University of Waterloo.
+I am a 4th year Computer Science ~~(and soon to be Statistics)~~ student at the University of Waterloo.
 
 #### 🕜 Currently/Near Future
-- Incoming intern at Shopify this January, where I will be building new UIs for customers and backend services to support the growth of thousands of online businesses.
-- Interning at AutoDesk this September, building a design review system, similar to GitHub pull request reviews
-- Building open source tech for social good with UW Blueprint and Develop for Good
+- Incoming intern at Robinhood, building the user interfaces that allows everyone to trade freely.
+- Currebtly interning at Shopify where I am basically building tiktok on the Shop app.
+- Previously interning at AutoDesk where I worked on building a design review system, similar to GitHub pull request reviews
+- Building open source tech for social good with UW Blueprint and Extend A Family.
 - Working at WatStreet, building their data server to analyze our ML models for trading stocks and crypto
 - Looking for ~~Fall 2024~~, ~~Winter 2025~~, Summer 2025 and Fall 2025 SWE internships (Reach out, I need more money :D)
 
@@ -13,9 +14,9 @@ I am a 3rd year Computer Science ~~(and soon to be Statistics)~~ student at the 
 - Data structures and algos (this is just me saying I need to do more lc)
 
 #### 🏀 Hobbies
-- 🏋️ Gym (If I don't hit 225 bench by end of year, I owe my friends a steak dinner)
+- 🏋️ Gym (~~If I don't hit 225 bench by end of year, I owe my friends a steak dinner~~ I owe them a dinner)
 - 🎰 Poker (I get a dopamine rush when I see my cards)
-- 🎮 Video Games (~~I am hardstuck silver in Valorant and Plat in OW2~~ I don't even play anymore man)
+- 🎮 Video Games (~~I am hardstuck silver in Valorant and Plat in OW2~~ ~~I don't even play anymore man~~ I only play Mario Kart now)
 
 #### ⚡ Fun Fact:
 - I used to be right handed until grade 1, then I randomly chose to be left handed from then on
