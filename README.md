@@ -4,7 +4,7 @@ I am a 4th year Computer Science ~~(and soon to be Statistics)~~ student at the 
 
 #### 🕜 Currently/Near Future
 - Incoming intern at Robinhood, building the user interfaces that allows everyone to trade freely.
-- Currebtly interning at Shopify where I am basically building tiktok on the Shop app.
+- Currently interning at Shopify where I am basically building tiktok on the Shop app.
 - Previously interning at AutoDesk where I worked on building a design review system, similar to GitHub pull request reviews
 - Building open source tech for social good with UW Blueprint and Extend A Family.
 - Working at WatStreet, building their data server to analyze our ML models for trading stocks and crypto
