@@ -21,7 +21,7 @@ I am a 4th year Computer Science ~~(and soon to be Statistics)~~ student at the 
 #### ⚡ Fun Fact:
 - I used to be right handed until grade 1, then I randomly chose to be left handed from then on
 
-Want to reach me? 
+Let's connect! 
 <p align="center">
 <a href="https://www.linkedin.com/in/jzhao9/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="50" width="50" /></a>
 </p>
